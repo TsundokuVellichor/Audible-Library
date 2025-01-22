@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Jason caught up to the current floor in record time, gaining powerful allies and unique skills along the way. </p> <p>But an unexpected change in the tower took away his greatest advantage. </p> <p>From now on, he's as blind as the rest.</p>"; 
