@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Danny is finally headed back home to Diadem to see his family and settle some old wrongs.</p> <p>The men of Diadem have been sacrificing their own potentials for the sake of the country for long enough, and Danny has the perfect solution.</p>"; 

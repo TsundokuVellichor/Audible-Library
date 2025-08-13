@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Four bonus scenes from the Nightlord series!</b></p> <p>In an extra chapter from book two, <i>Shadows,</i> find out what actually happened that night, and why Eric has such a strong dislike of bugs—especially giant ants. \"Halloween,\" \"H2,\" and \"This Army\" are bonus scenes from book four, <i>Knightfall.</i></p>"; 

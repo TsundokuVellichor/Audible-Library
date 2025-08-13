@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Book four in the My Best Friend is an Eldritch Horror series. It's slice-of-life mixed with LitRPG in a magic school setting. A slow-build power fantasy from Actus, the best-selling author of the Morcster Chef series.</p>"; 
