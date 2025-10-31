@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Free from the Empire, Eryk flees with Maveith, following a thread of hope that Maveith's sister is alive. The journey is perilous, and success is not assured. To conceal their true objective, the pair become mercenary adventurers as they cross the continent.</p>"; 
