@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Book 2 in the story of a little snake zealot and his journey to greatness. A crunchy time-loop LitRPG series perfect for fans of Kenneth Arant, RinoZ, and Jonathan Smidt. Order your copy today!</b></p>"; 

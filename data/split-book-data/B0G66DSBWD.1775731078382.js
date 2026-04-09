@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Storme and Gareth begin their first year at the Academy in Hen's Hollow, guided by some exceptional instructors. During his time, Storme experiences remarkable growth in both his martial and magical skills. However, Skyholme will face turbulence as the seed of corruption sprouts and forces the pair to confront it.</p>"; 
